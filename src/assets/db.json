@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Pratik",
+      "age": "24",
+      "gender": "Male",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Hiren",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "id": 3,
+      "name": "Harshiv",
+      "age": "23",
+      "gender": "Male"
+    },
+    {
+      "name": "Jay",
+      "age": "23",
+      "gender": "Male",
+      "id": 4
+    },
+    {
+      "name": "Sonal",
+      "age": "25",
+      "gender": "Female",
+      "id": 5
+    },
+    {
+      "name": "Test",
+      "age": "Test",
+      "gender": "Male",
+      "id": 6
+    }
+  ],
+  "customers": [
+    {
+      "name": "HAe",
+      "age": "28",
+      "gender": "Female",
+      "id": 5
+    }
+  ]
+}
